@@ -1,0 +1,9 @@
+CRÉDITOS DE IMÁGENES DE TERCEROS
+================================
+Todas las imágenes del paquete son generadas por IA a partir de referencias
+visuales, excepto la siguiente, que es una fotografía real con licencia libre:
+
+- notas/nota_vodka.webp — vaso de vodka, fotografía de freeimageslive.co.uk
+  (licencia gratuita de uso comercial y personal con atribución).
+  Fuente: https://www.freeimageslive.co.uk/files/images009/vodka.preview.jpg
+  Recortada y procesada (fondo transparente) por el proyecto Aromario.

@@ -1,5 +1,5 @@
 {
- "version": 4,
+ "version": 5,
  "imagenes": [
   "abedul",
   "abeto",
@@ -363,6 +363,7 @@
   "verbena_de_limon",
   "vetiver",
   "violeta",
+  "vodka",
   "whisky",
   "ylang_ylang",
   "yuzu",
@@ -1295,6 +1296,7 @@
   "ear": "pera",
   "especiado": "notas_especiadas",
   "atermelon": "sandia",
-  "oneydew_melon": "melon"
+  "oneydew_melon": "melon",
+  "vodka": "vodka"
  }
 }
