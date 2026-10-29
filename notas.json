@@ -1,5 +1,5 @@
 {
- "version": 3,
+ "version": 4,
  "imagenes": [
   "abedul",
   "abeto",
@@ -1290,6 +1290,11 @@
   "aspberry": "frambuesa",
   "pple": "manzana",
   "int": "menta",
-  "elon": "melon"
+  "elon": "melon",
+  "each": "melocoton",
+  "ear": "pera",
+  "especiado": "notas_especiadas",
+  "atermelon": "sandia",
+  "oneydew_melon": "melon"
  }
 }
